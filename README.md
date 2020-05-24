@@ -2,7 +2,7 @@
 
 <p align="center">Presented by R.G.</p>
 
-+ **强烈建议点击：**[本README更好的排版和阅读体验](https://blog.csdn.net/qq_41709370/article/details/106292047) 【Github可能不能正常显示 目录、图片、数学公式】
++ **强烈建议点击：**[本README更好的排版和阅读体验](https://blog.csdn.net/qq_41709370/article/details/106321404) 【Github可能不能正常显示 目录、图片、数学公式】
 
 **注：**
 
