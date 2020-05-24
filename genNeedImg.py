@@ -20,7 +20,7 @@ def genNeedImg(imgPath,size=None,flag='binary'):
         prop = int(size[0]*size[1]/(512*512)*100) # 以载体图像为512x512，算生成的水印大小占载体图的百分比
         cv.imwrite('./images/{}_binary{}.bmp'.format(imgName,prop),imgBinary) 
         print('Binary image generated!')
-        print('threshold:{}'.format(ret)) # 输出转换与之
+        print('threshold:{}'.format(ret)) # 输出转换阈值
 
 if __name__ == "__main__":
     imgName = sys.argv[1]
