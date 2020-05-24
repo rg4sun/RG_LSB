@@ -337,7 +337,7 @@ def LSBextracting(imgStegoPath,embedZone,imgEmbedSize,keyPos,bitPlane=1):
 $$
 P S N R=10 \times \log _{10}\left(\frac{\left(2^{b}-1\right)^{2}}{M S E}\right)
 $$
-其中，MSE(Mean Square Error)是原图像（语音）与处理图像（语音）之间均方误差。给定一个大小为 m×n 的干净图像 𝐼 和噪声图像 𝐾，均方误差 (𝑀𝑆𝐸) 定义为：
+其中，MSE(Mean Square Error)是原图像（语音）与处理图像（语音）之间均方误差。给定一个大小为 m×n 的干净图像 $I$和噪声图像 $K$ ，均方误差(MSE) 定义为：
 $$
 M S E=\frac{1}{m n} \sum_{i=0}^{m-1} \sum_{j=0}^{n-1}[I(i, j)-K(i, j)]^{2}
 $$
